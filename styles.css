@@ -1,0 +1,31 @@
+* {font-family: Lucida Sans Unicode, Arial, sans-serif;}
+
+.header {
+    width: 100%;
+    font-weight: bolder;
+    font-size: 36pt;
+    text-align: center;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    color: #808080;
+}
+
+.text-content {
+    width: 50%;
+    display: block;
+    margin: auto;
+    font-size: 24pt;
+}
+
+.menu {
+    font-size: 24pt;
+}
+
+a {
+    /*color: #4dd2ff;*/
+    color: #00bfff;
+    
+    /*color: inherit;*/
+}
