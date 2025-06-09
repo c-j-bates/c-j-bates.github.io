@@ -3,7 +3,7 @@
 .header {
     width: 100%;
     font-weight: bolder;
-    font-size: 24pt;
+    font-size: 36pt;
     text-align: center;
     margin-left: 10px;
     margin-right: 10px;
@@ -16,11 +16,11 @@
     width: 50%;
     display: block;
     margin: auto;
-    font-size: 24pt;
+    font-size: 18pt;
 }
 
 .menu {
-    font-size: 24pt;
+    font-size: 18pt;
 }
 
 a {
